@@ -2,8 +2,8 @@ package Livros;
 
 import java.util.List;
 import java.util.Scanner;
-import Livros.LivroFisico; // Adicione esta linha
-import Livros.LivroDigital; // Adicione esta linha
+import Livros.LivroFisico;
+import Livros.LivroDigital; 
 
 public class Main {
     private static Biblioteca biblioteca = new Biblioteca();
